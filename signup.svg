@@ -29,9 +29,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="-1885.8427"
-     inkscape:cx="443.66547"
-     inkscape:zoom="0.69999999"
+     inkscape:cy="204.53222"
+     inkscape:cx="118.01058"
+     inkscape:zoom="0.35"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -883,23 +883,32 @@
          x="24.132793"
          y="808.54858"
          style="font-size:6.22055054px;stroke-width:0.26458332px"
-         id="tspan4750-3-9">Applications &gt; GNOME Maps</tspan></text>
+         id="tspan4750-3-9"><tspan
+   style="fill:#3465a4"
+   id="tspan4718">Applications</tspan> &gt; GNOME Maps</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 22.985179,812.17745 H 254.97513"
        id="path4500"
        inkscape:connector-curvature="0" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f57900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.26499998, 1.05999993999999997;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4716"
+       width="231.72267"
+       height="15.887092"
+       x="22.985178"
+       y="823.93732" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:5.29166651px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="126.27753"
-       y="834.98926"
+       x="127.33585"
+       y="833.38562"
        id="text4744-0-4"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="126.27753"
-         y="834.98926"
+         x="127.33585"
+         y="833.38562"
          style="font-size:4.23333311px;stroke-width:0.26458332px"
          id="tspan4750-3-5">Building...</tspan></text>
     <rect
