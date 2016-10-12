@@ -119,8 +119,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="619.98488"
-     inkscape:cy="647.18019"
+     inkscape:cx="975.63935"
+     inkscape:cy="634.52011"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -547,7 +547,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.02047348px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
            id="flowPara10973">GtkColorSelectionDialog</flowPara></flowRoot>    </g>
     <flowRoot
-       transform="translate(-3537.0324,-1265.638)"
+       transform="translate(-3537.0324,-1273.638)"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:25px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot9076"
        xml:space="preserve"><flowRegion
@@ -1972,12 +1972,12 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 1476.5,412.8618 284.75,0 8.75,-10 8.75,10 40.75,0 0,188.9994 -343,0 z"
+       d="m 1476.5,412.8618 284.75,0 8.75,-10 8.75,10 40.75,0 0,288.9994 -343,0 z"
        id="rect9387"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
     <flowRoot
-       transform="translate(1162.4628,294.8864)"
+       transform="translate(1162.4628,394.8864)"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ee2222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot9390"
        xml:space="preserve"><flowRegion
@@ -1993,7 +1993,7 @@
        xml:space="preserve"
        id="flowRoot9402"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ee2222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(948.4628,156.8864)"><flowRegion
+       transform="translate(950.4628,156.8864)"><flowRegion
          id="flowRegion9404"><rect
            id="rect9406"
            width="245.01509"
@@ -2197,7 +2197,7 @@
            id="rect11906" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#c5c5c5;fill-opacity:1"
          id="flowPara11908">Personal dashboard concept</flowPara></flowRoot>    <flowRoot
-       transform="translate(934.4628,426.8864)"
+       transform="translate(934.4628,486.8864)"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot11910"
        xml:space="preserve"><flowRegion
@@ -2209,7 +2209,65 @@
            width="245.01509"
            id="rect11914" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ee2222;fill-opacity:1"
-         id="flowPara11916">Not covered here - anything to do with publishing to the store</flowPara></flowRoot>  </g>
+         id="flowPara11916">Not covered here - anything to do with publishing to the store</flowPara></flowRoot>    <flowRoot
+       transform="translate(950.4628,318.8864)"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ee2222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4694"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4696"><rect
+           style="font-size:30px;fill:#ee2222;fill-opacity:1"
+           y="269"
+           x="542"
+           height="141.033"
+           width="245.01509"
+           id="rect4698" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#919191;fill-opacity:1"
+         id="flowPara4700">Repository address</flowPara></flowRoot>    <rect
+       y="611.86182"
+       x="1491.5"
+       height="27"
+       width="314"
+       id="rect4702"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <flowRoot
+       transform="translate(958.4628,347.7197)"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4704"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4706"><rect
+           style="font-size:30px;fill:#2e3436;fill-opacity:1"
+           y="269"
+           x="542"
+           height="134.03302"
+           width="318.01508"
+           id="rect4708" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#2e3436;fill-opacity:1"
+         id="flowPara4710">flathub.com/aavery/my-first-app/master</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4712"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ee2222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(950.4628,290.8864)"><flowRegion
+         id="flowRegion4714"><rect
+           id="rect4716"
+           width="245.01509"
+           height="141.033"
+           x="542"
+           y="269"
+           style="font-size:30px;fill:#ee2222;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4718"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#919191;fill-opacity:1">Install builds from this branch</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4720"
+       d="m 1785.5006,569.6549 5,5 5,-5"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1790.5006,574.65591 0,-12.97056"
+       id="path4722"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
