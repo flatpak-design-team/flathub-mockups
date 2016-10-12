@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1260"
+   height="700"
+   viewBox="0 0 1260 700"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="aday-landing-page-copy.svg"
+   inkscape:export-filename="/home/aday/checkout/flathub-mockups/experiments/aday-landing-page-copy.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="571.54316"
+     inkscape:cy="373.12758"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4174" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-352.36216)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4136"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(25.436559,538.30968)"><flowRegion
+         id="flowRegion4138"><rect
+           id="rect4140"
+           width="634.37585"
+           height="413.1524"
+           x="106.06602"
+           y="84.636063"
+           style="fill:#2e3436" /></flowRegion><flowPara
+         id="flowPara4146"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436">Share development builds</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436"
+         id="flowPara4384">Publish applications to the Flatpak Store</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436"
+         id="flowPara4386">Browse other Flatpak projects</flowPara><flowPara
+         id="flowPara4150"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436">Collaborate with team members</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436"
+         id="flowPara4170">Automated nightly builds</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436"
+         id="flowPara4354">Build on multiple architectures</flowPara><flowPara
+         id="flowPara4154"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436" /><flowPara
+         id="flowPara4156"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436" /><flowPara
+         id="flowPara4158"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436" /><flowPara
+         id="flowPara4160"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436" /><flowPara
+         id="flowPara4162"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:15px;line-height:240.00000954%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#2e3436" /></flowRoot>    <flowRoot
+       transform="translate(-28.563441,-9.69032)"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4193"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4195"><rect
+           y="84.636063"
+           x="106.06602"
+           height="413.1524"
+           width="634.37585"
+           id="rect4197"
+           style="font-size:35px" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:35px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light'"
+         id="flowPara4227" /></flowRoot>    <flowRoot
+       transform="translate(-8.563441,496.30968)"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4366"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4368"><rect
+           y="84.636063"
+           x="106.06602"
+           height="413.1524"
+           width="634.37585"
+           id="rect4370"
+           style="font-size:20px;fill:#2e3436" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:20px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';fill:#2e3436"
+         id="flowPara4372">Features</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.00536,646.73534 3.71231,3.71231 10.02082,-10.02081"
+       id="path4388"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4390"
+       d="m 103.00536,682.73534 3.71231,3.71231 10.02082,-10.02081"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.00536,720.73534 3.71231,3.71231 10.02082,-10.02081"
+       id="path4392"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4394"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-8.563441,410.30968)"><flowRegion
+         id="flowRegion4396"><rect
+           style="font-size:35px;fill:#2e3436"
+           id="rect4398"
+           width="634.37585"
+           height="413.1524"
+           x="106.06602"
+           y="84.636063" /></flowRegion><flowPara
+         id="flowPara4400"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:35px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';fill:#2e3436">Build infrastructure for Flatpak</flowPara></flowRoot>    <flowRoot
+       transform="translate(558.78875,432.22853)"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4423"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4425"><rect
+           y="84.636063"
+           x="106.06602"
+           height="413.1524"
+           width="634.37585"
+           id="rect4427"
+           style="font-size:35px;fill:#2e3436" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';text-align:center;text-anchor:middle;fill:#2e3436"
+         id="flowPara4429">Sign Up</flowPara></flowRoot>    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4431"
+       width="320"
+       height="29.999973"
+       x="821.5"
+       y="562.86218" />
+    <rect
+       y="614.86218"
+       x="821.5"
+       height="29.999973"
+       width="320"
+       id="rect4433"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect4435"
+       width="320"
+       height="29.999973"
+       x="821.5"
+       y="666.86218" />
+  </g>
+</svg>
