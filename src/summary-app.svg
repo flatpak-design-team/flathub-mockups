@@ -15,7 +15,7 @@
    id="svg21856"
    version="1.1"
    inkscape:version="0.92pre2 r"
-   sodipodi:docname="dashboard-app.svg"
+   sodipodi:docname="summary-app.svg"
    inkscape:export-filename="/home/aday/checkout/flathub-mockups/experiments/dashboard-app.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -44,9 +44,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="694.22558"
-     inkscape:cy="3260.8933"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="879.49651"
+     inkscape:cy="3531.2717"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -88,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
