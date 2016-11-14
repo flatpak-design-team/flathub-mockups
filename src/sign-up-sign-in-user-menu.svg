@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92pre2 r"
    sodipodi:docname="sign-up-sign-in-user-menu.svg"
-   inkscape:export-filename="/home/aday/checkout/flathub-mockups/experiments/aday-site-map2-minimal.png"
+   inkscape:export-filename="/home/aday/checkout/flathub-mockups/png/sign-up-sign-in-user-menu.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -44,9 +44,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="719.00559"
-     inkscape:cy="1335.1566"
+     inkscape:zoom="0.5"
+     inkscape:cx="693.29583"
+     inkscape:cy="848.02434"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,10 +57,10 @@
      units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
@@ -683,34 +683,9 @@
        sodipodi:nodetypes="scccssssssss"
        inkscape:connector-curvature="0"
        id="path7876"
-       d="m -1597.7868,1793.6816 h 88.2502 l 12.2503,-12 12.2502,12 h 74.2503 c 3.324,0 6,2.676 6,6 v 111.8944 c 0,3.324 -2.676,6 -6,6 h -187.001 c -3.324,0 -6,-2.676 -6,-6 v -111.8944 c 0,-3.324 2.676,-6 6,-6 z"
+       d="m -1535.7868,1793.6816 h 106.2502 l 12.2503,-12 12.2502,12 h 56.2503 c 3.324,0 6,2.676 6,6 v 111.8944 c 0,3.324 -2.676,6 -6,6 h -187.001 c -3.324,0 -6,-2.676 -6,-6 v -111.8944 c 0,-3.324 2.676,-6 6,-6 z"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#dbdbdb;stroke-width:0.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1549.4084,1748.8179 -6.7611,-0.01 c -2.0982,0.699 -4.6073,3.956 -4.6101,7.061 l -0.01,3.792 c 0,1.065 0.8436,1.923 1.8914,1.923 h 12.2208 c 1.0478,0 1.8913,-0.858 1.8913,-1.923 v -3.769 c 0,-2.667 -2.0848,-6.395 -4.6248,-7.069 z"
-       id="path9104"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccssssccc" />
-    <circle
-       cy="1744.578"
-       cx="-1552.7855"
-       id="circle9106"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
-       r="6" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot9108"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.9984685,0,0,0.9999999,-5259.3222,358.824)"><flowRegion
-         id="flowRegion9110"><rect
-           id="rect9112"
-           width="581"
-           height="141"
-           x="3729"
-           y="1361"
-           style="text-align:start;text-anchor:start;fill:#2e3436" /></flowRegion><flowPara
-         id="flowPara9114"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67791176px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">Angela Avery</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.24481327"
        d="m -2614.2856,333.4753 h 1280"
        id="path7866"
@@ -1082,7 +1057,7 @@
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.42857158px;writing-mode:lr-tb;text-anchor:start">FLATHUB</tspan></text>
     </g>
     <flowRoot
-       transform="translate(-2123.824,1533.5379)"
+       transform="translate(-2061.824,1533.5379)"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot10808"
        xml:space="preserve"><flowRegion
@@ -1099,7 +1074,7 @@
        xml:space="preserve"
        id="flowRoot10824"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-2123.824,1564.5379)"><flowRegion
+       transform="translate(-2061.824,1564.5379)"><flowRegion
          style="text-align:start;text-anchor:start"
          id="flowRegion10816"><rect
            id="rect10814"
@@ -1110,7 +1085,7 @@
            style="font-size:30px;text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara10822"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:16px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436;fill-opacity:1">Help</flowPara></flowRoot>    <flowRoot
-       transform="translate(-2123.824,1595.5379)"
+       transform="translate(-2061.824,1595.5379)"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot10836"
        xml:space="preserve"><flowRegion
@@ -1270,6 +1245,39 @@
              y="-7689.8877"
              style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.33333302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.42857158px;writing-mode:lr-tb;text-anchor:start">FLATHUB</tspan></text>
       </g>
+    </g>
+    <flowRoot
+       transform="matrix(0.9984685,0,0,0.9999999,-5186.0042,358.8241)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot8682"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8678"><rect
+           style="text-align:start;text-anchor:start;fill:#2e3436"
+           y="1361"
+           x="3729"
+           height="141"
+           width="581"
+           id="rect8676" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.67791176px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436"
+         id="flowPara8680">Angela Avery</flowPara></flowRoot>    <g
+       transform="rotate(-90,-134.60471,1992.6821)"
+       id="g8689"
+       inkscape:label="pan-down"
+       style="display:inline">
+      <path
+         style="fill:#2e3436;fill-opacity:1;stroke:none"
+         d="m 110.00021,760 -5,-5 5,-5 z"
+         id="path8684"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <rect
+         width="16"
+         height="16"
+         x="-116.0002"
+         y="747"
+         id="rect8686"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         transform="scale(-1,1)" />
     </g>
   </g>
   <g
