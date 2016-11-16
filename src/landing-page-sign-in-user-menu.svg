@@ -16,7 +16,7 @@
    id="svg21856"
    version="1.1"
    inkscape:version="0.92pre2 r"
-   sodipodi:docname="sign-in-user-menu.svg"
+   sodipodi:docname="landing-page-sign-in-user-menu.svg"
    inkscape:export-filename="/home/aday/checkout/flathub-mockups/png/landing-page-sign-in-user-menu.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -45,9 +45,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="803.29571"
-     inkscape:cy="3374.8265"
+     inkscape:zoom="1"
+     inkscape:cx="832.17587"
+     inkscape:cy="2606.3127"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1698,7 +1698,7 @@
        xml:space="preserve"
        id="flowRoot10064"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:18px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-2519.8188,-824.9969)"><flowRegion
+       transform="translate(-2519.8188,-814.9969)"><flowRegion
          style="line-height:18px;fill:#ffffff"
          id="flowRegion10058"><rect
            id="rect10056"
@@ -1711,7 +1711,7 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:14.66666698px;line-height:18px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#ffffff">Make builds available to testers</flowPara><flowPara
          id="flowPara10062"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.66666698px;line-height:18px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#ffffff">Make every build available to install, or create candidate channels for beta testing</flowPara></flowRoot>    <flowRoot
-       transform="translate(-2017.8188,-888.9969)"
+       transform="translate(-2017.8188,-898.9969)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:18px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot10074"
        xml:space="preserve"><flowRegion
@@ -1746,17 +1746,17 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path10088"
-       d="m -2460.25,-712.5028 6.1095,6.0437 16.4918,-16.3112"
+       d="m -2460.25,-702.5028 6.1095,6.0437 16.4918,-16.3112"
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1958.25,-776.075 6.1095,6.0437 16.4918,-16.3112"
+       d="m -1958.25,-784.075 6.1095,6.0437 16.4918,-16.3112"
        id="path10090"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -1958.25,-702.9026 6.1095,6.0437 16.4918,-16.3112"
+       d="m -1958.25,-702.5028 6.1095,6.0437 16.4918,-16.3112"
        id="path10092"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -1770,7 +1770,7 @@
        width="273.06668" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -2460.25,-776.075 6.1095,6.0437 16.4918,-16.3112"
+       d="m -2460.25,-784.075 6.1095,6.0437 16.4918,-16.3112"
        id="path10587"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
