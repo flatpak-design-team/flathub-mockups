@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="-138.69926"
-     inkscape:cy="593.85148"
+     inkscape:zoom="0.5"
+     inkscape:cx="366.40015"
+     inkscape:cy="917.59747"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1028,13 +1028,13 @@
          sodipodi:role="line"
          id="tspan5775"
          x="-2324.3457"
-         y="1560.9">Push to &quot;Testing&quot;</tspan></text>
+         y="1560.9">Tag...</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.9212598;fill-rule:nonzero;stroke:#d3d7cf;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6333"
        width="279"
        height="33"
-       x="-2163.7856"
+       x="-1763.7856"
        y="1540.5759"
        rx="5.5573468"
        ry="4.9919076" />
@@ -1042,7 +1042,7 @@
        ry="4.9919076"
        rx="5.5573468"
        y="1539.5493"
-       x="-2163.7588"
+       x="-1763.7588"
        height="33"
        width="279"
        id="rect6335"
@@ -1050,18 +1050,18 @@
     <text
        id="text5787"
        y="1561.1826"
-       x="-2024.3457"
+       x="-1624.3457"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:2500%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9992339px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
          y="1561.1826"
-         x="-2024.3457"
+         x="-1624.3457"
          id="tspan5785"
          sodipodi:role="line">Publish</tspan></text>
     <g
        style="display:inline;fill:#2e3436"
        inkscape:label="Layer 1"
        id="layer1-6"
-       transform="translate(-2068.2856,1548.076)">
+       transform="translate(-1668.2856,1548.076)">
       <path
          inkscape:label="gnome-software"
          id="rect43509-3-4-3"
@@ -1272,13 +1272,38 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:25px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436"
          id="flowPara6456">∙ The build summary from the log, possibly made to look nice</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:25px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara6458">∙ The last X lines of the log (possibly highlighted or focused, if the build failed)</flowPara></flowRoot>  </g>
+         id="flowPara6458">∙ The last X lines of the log (possibly highlighted or focused, if the build failed)</flowPara></flowRoot>    <flowRoot
+       transform="translate(-5987.2044,261.9204)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#ee2222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4768"
+       xml:space="preserve"><flowRegion
+         style="line-height:125%;fill:#ee2222"
+         id="flowRegion4758"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ee2222"
+           y="1361"
+           x="3729"
+           height="258.75232"
+           width="336.53491"
+           id="rect4756" /></flowRegion><flowPara
+         id="flowPara4766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ee2222">TODO: fill in how adding/removing/creating/deleting tags should work</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ee2222;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -2324.7856,1589.576 v 49.5"
+       id="path4779"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4781"
+       d="m -2325.2856,1638.576 49.5,-8e-4"
+       style="fill:none;fill-rule:evenodd;stroke:#ee2222;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="grid"
      style="display:none;opacity:0.17300002"
-     transform="translate(0,-8880)">
+     transform="translate(0,-8880)"
+     sodipodi:insensitive="true">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#919191;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect9360"
