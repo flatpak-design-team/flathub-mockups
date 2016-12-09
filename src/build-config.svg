@@ -45,9 +45,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="758.44744"
-     inkscape:cy="2829.5897"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="627.99524"
+     inkscape:cy="3260.1688"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -761,38 +761,32 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2e3436"
          id="flowPara5969">Recipe / master / beta</flowPara></flowRoot>    <g
        style="display:inline"
-       id="g5981"
-       transform="matrix(0.99983741,0,0,0.99709409,-1724.2793,-907.82132)"
-       inkscape:label="preferences-system">
-      <path
-         inkscape:connector-curvature="0"
-         id="path5975"
-         d="m 43.549718,708.04419 c -0.399396,0 -0.786509,0.0919 -1.143474,0.21635 l 1.885188,1.88519 c 0.387409,0.3874 0.387409,1.00329 0,1.39071 l -0.710808,0.71081 c -0.387409,0.3874 -1.003305,0.3874 -1.390714,0 l -1.885188,-1.88519 c -0.12446,0.35695 -0.216334,0.74407 -0.216334,1.14347 0,1.91164 1.549691,3.46132 3.46133,3.46132 0.399396,0 0.786511,-0.0919 1.143476,-0.21633 l 1.17438,1.17438 a 2.4726259,2.4726259 0 0 1 0.0618,0 l 2.070622,-2.07061 -1.205284,-1.20529 c 0.124458,-0.35695 0.216332,-0.74407 0.216332,-1.14347 0,-1.91164 -1.549689,-3.46134 -3.46133,-3.46134 z m 6.551804,7.91162 -2.070618,2.07061 a 2.4726259,2.4726259 0 0 1 0.03091,0.0927 l 1.143474,1.14347 c -0.124458,0.357 -0.216332,0.74412 -0.216332,1.14352 0,1.91164 1.549689,3.46134 3.46133,3.46134 0.433532,0 0.853742,-0.1017 1.236188,-0.24724 l -2.008806,-2.00881 c -0.387409,-0.38742 -0.387409,-1.0342 0,-1.42162 l 0.679904,-0.6799 c 0.193705,-0.19371 0.458013,-0.30906 0.710808,-0.30906 0.252795,0 0.517105,0.11535 0.71081,0.30906 l 1.946998,1.94699 c 0.104867,-0.33054 0.185428,-0.6855 0.185428,-1.05076 0,-1.91164 -1.549691,-3.46132 -3.46133,-3.46132 -0.399396,0 -0.786511,0.0919 -1.143476,0.21633 l -1.205286,-1.2053 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5977"
-         d="m 53.860505,707.95337 -1.542705,1.44172 c -0.451586,0.42201 -0.529293,1.15218 -0.266343,1.71144 l -5.889182,6.01323 a 1.4919155,1.4919127 0 0 0 -0.03108,2.5e-4 1.4919155,1.4919127 0 0 0 -0.840306,-0.14884 1.4919155,1.4919127 0 0 0 -0.866771,0.44188 l -3.94684,4.00899 a 1.4943601,1.4943574 0 1 0 2.129781,2.09677 l 3.946839,-4.00899 a 1.4919155,1.4919127 0 0 0 0.297178,-1.74277 l 5.889423,-5.98216 c 0.557911,0.2491 1.273451,0.1474 1.707079,-0.29305 l 1.417423,-1.56504 -2.004499,-1.97343 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
+       transform="translate(-1704.2856,-719.9252)"
+       inkscape:label="edit-delete"
+       id="g8602">
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         id="rect5979"
-         width="16"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect8598-3"
+         y="518"
+         x="40"
          height="16"
-         x="201"
-         y="245"
-         transform="matrix(1.0001626,0,0,1.0029144,-161.03248,462.23935)" />
+         width="16" />
+      <path
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;enable-background:new"
+         id="path8600"
+         inkscape:connector-curvature="0"
+         d="m 48,519.03125 c -3.85327,0 -6.96875,3.11547 -6.96875,6.96875 0,3.85327 3.11548,6.96875 6.96875,6.96875 3.85327,0 6.96875,-3.11548 6.96875,-6.96875 0,-3.85328 -3.11548,-6.96875 -6.96875,-6.96875 z M 45,523 h 1 c 0.01037,-1.2e-4 0.02079,-4.6e-4 0.03125,0 0.254951,0.0112 0.50987,0.12858 0.6875,0.3125 L 48,524.59375 49.3125,523.3125 C 49.578125,523.082 49.759172,523.007 50,523 h 1 v 1 c 0,0.28647 -0.03434,0.55065 -0.25,0.75 l -1.28125,1.28125 1.25,1.25 C 50.906938,527.46942 50.999992,527.7347 51,528 v 1 h -1 c -0.265301,-10e-6 -0.530586,-0.0931 -0.71875,-0.28125 L 48,527.4375 46.71875,528.71875 C 46.530586,528.90694 46.26529,529 46,529 h -1 v -1 c -3e-6,-0.26529 0.09306,-0.53058 0.28125,-0.71875 l 1.28125,-1.25 L 45.28125,524.75 C 45.070508,524.55537 44.97809,524.28075 45,524 Z" />
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:2500%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.9992339px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-1657.1154"
+       x="-1637.1154"
        y="-189.53723"
        id="text5985"><tspan
          sodipodi:role="line"
          id="tspan5983"
-         x="-1657.1154"
-         y="-189.53723">Build Configuration Settings</tspan></text>
+         x="-1637.1154"
+         y="-189.53723">Delete Tag</tspan></text>
     <flowRoot
        transform="translate(-6175.4228,-1486.1029)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:170.00000477%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1065,7 +1059,7 @@
            width="741"
            id="rect7797" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:26.66666603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:start;text-anchor:start;fill:#2e3436"
-         id="flowPara7801">Branch Settings</flowPara></flowRoot>    <rect
+         id="flowPara7801">Build Configuration Settings</flowPara></flowRoot>    <rect
        y="960.07416"
        x="-2614.2844"
        height="47.999989"
@@ -1381,7 +1375,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#2e3436;fill-opacity:1">Repository Address</flowPara></flowRoot>    <rect
        ry="4.9919076"
        rx="5.5573468"
-       y="1578.6028"
+       y="1568.6028"
        x="-1723.7589"
        height="32.94659"
        width="238.94655"
@@ -1393,19 +1387,19 @@
        width="238.94658"
        height="32.94659"
        x="-1723.7589"
-       y="1577.6028"
+       y="1567.6028"
        rx="5.5573473"
        ry="4.9919076" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:2500%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9992339px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="-1690.4843"
-       y="1598.9"
+       y="1588.9"
        id="text13751"><tspan
          sodipodi:role="line"
          id="tspan13749"
          x="-1690.4843"
-         y="1598.9">Remove Build Configuration</tspan></text>
+         y="1588.9">Remove Build Configuration</tspan></text>
     <g
        transform="translate(5.2153473e-6,622)"
        id="g22245">
@@ -4108,7 +4102,7 @@
            width="1005.4579"
            id="rect5558" /></flowRegion><flowPara
          id="flowPara5562"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">Potentially awkward relationship between the path in the header and the install/settings options here. Install refers to either the build configuration or the tag, depending on the context, but settings always refers to the build configuration.</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:139.99999762%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#2e3436">Delete Tag shows a confirmation dialog - should warn that the tag will be removed from all builds in the build configuration.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
